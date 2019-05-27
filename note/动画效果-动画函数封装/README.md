@@ -73,7 +73,7 @@ var obj = {
 };
 for (var prop in obj) {
   console.log(prop);
-  console.log(obj.[prop]);
+  console.log(obj[prop]);
 }
 ```
 
